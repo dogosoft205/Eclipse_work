@@ -7,11 +7,7 @@ public class MainClass {
 		System.out.println("¾È³ç! in masterBranch.");
 		System.out.println("¾È³ç! I am in secondBranch.");
 		System.out.println("do you lunch? I am in secondBranch too.");
-<<<<<<< HEAD
-		System.out.println("I do changed this 4 line in master.");
-=======
-		System.out.println("I changed the 4line in second too.");
->>>>>>> refs/heads/secondBranch
+		System.out.println("I do mergied this 4 line in master.");
 	}
 
 }
