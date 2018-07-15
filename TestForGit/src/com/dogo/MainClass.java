@@ -6,6 +6,7 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		System.out.println("¾È³ç!");
 		System.out.println("¾È³ç! I am in secondBranch.");
+		System.out.println("do you lunch? I am in secondBranch too.");
 	}
 
 }
