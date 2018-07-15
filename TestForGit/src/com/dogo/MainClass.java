@@ -11,6 +11,7 @@ public class MainClass {
 		System.out.println("I changed it in master.");
 		
 		System.out.println("I changed it in master.");
+		System.out.println("I changed it in local.");
 	}
 
 }
