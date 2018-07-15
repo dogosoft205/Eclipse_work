@@ -7,6 +7,7 @@ public class MainClass {
 		System.out.println("¾È³ç! in masterBranch.");
 		System.out.println("¾È³ç! I am in secondBranch.");
 		System.out.println("do you lunch? I am in secondBranch too.");
+		System.out.println("I changed the 4line in second too.");
 	}
 
 }
